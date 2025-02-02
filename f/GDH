@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash/gdthehacker 
 main() {
 clear
 curl -sSL https://github.com/GDTHEHACKER/Dark-Door/raw/main/f/logo.txt | cat
