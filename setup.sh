@@ -9,8 +9,8 @@ for p in "${pkgs[@]}"; do
 done
 echo instaling Dark-Door...
 
-curl -sLO https://github.com/GDTHEHACKER/Dark-Door/raw/main/f/torrc
-curl -sLO https://github.com/GDTHEHACKER/Dark-Door/raw/main/f/GDH
+curl -sLO https://github.com/GDTHEHACKER/Dark-Door/raw/main/torrc
+curl -sLO https://github.com/GDTHEHACKER/Dark-Door/raw/main/GDH
 
 mv torrc $PREFIX/etc/tor/torrc
 mv GDH $PATH/Dark-Door
