@@ -1,1 +1,8 @@
-gdthehacker clear
+#gdthehacker 
+clear
+sleep 2
+ls
+sleep 1
+clear 
+logout
+exit 
